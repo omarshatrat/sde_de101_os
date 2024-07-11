@@ -1,0 +1,15 @@
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need. 
+
+Start by asking what the business goal is. 
+
+Then, what data infra do they need? Real time analysis, data streams, big processors/compute, etc.
+
+Think about what kind of data is needed for what kind of analysis. 
+
+Set up data warehouse/lake/stream.
+
+Create data model.
+
+Develop pipelines.
+
+Deploy and monitor data infra.
